@@ -1,5 +1,9 @@
 __SQL_HomeWork__ - [SQL_HomeWork_1](https://github.com/AndreiHeranok/SQL/blob/main/postgreSQL_HW_1.sql)
 
+__SQL_HomeWork__ - [SQL_HomeWork_2](https://github.com/AndreiHeranok/SQL/blob/main/SQL_HomeWork_2_DDL.sql)
+
+__SQL_HomeWork__ - [SQL_HomeWork_3](https://github.com/AndreiHeranok/SQL/blob/main/SQL_HomeWork_3(Join).sql)
+
 ___
 
 
